@@ -24,42 +24,30 @@ I'm a software developer passionate about building full-stack web applications. 
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4bc_briefcase.webp" width="25" height="25" /> Featured Projects
 
-### JadrihGonzalesPoems Blog 📝 />
+### JadrihGonzalesPoems Blog 📝
 
-A web extension for importing and exporting bookmarks across browsers.
+a dynamic blog tailor-made for a client who loves writing poems.
 
-[![Plasmo][Plasmo Badge]][Plasmo URL]
 [![React][React Badge]][React URL]
+[![Next.js][Next.js Badge]][Next.js URL]
 [![TailwindCSS][TailwindCSS Badge]][TailwindCSS URL]
 [![Shadcn/UI][Shadcn/UI Badge]][Shadcn/UI URL]
 [![Lucide][Lucide Badge]][Lucide URL]
 [![TypeScript][TypeScript Badge]][TypeScript URL]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" /> [Chrome Web Store][Bookmark Import/Export Chrome Web Store URL]
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" /> [Preview][https://jadirhgonzalezpoems.vercel.app/]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" /> [Repository][Bookmark Import/Export Repo URL]
-
-### Animated Fluent Emojis <img src="https://cdn.animated-fluent-emojis.com/webp/Activities/2728_sparkles.webp" width="25" height="25" />
-
-React component library that brings Microsoft's Fluent emojis to life in your web applications.
-
-[![React][React Badge]][React URL]
-[![TypeScript][TypeScript Badge]][TypeScript URL]
-[![Vite][Vite Badge]][Vite URL]
-
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" /> [NPM Package][Animated Fluent Emojis NPM URL]
-
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" /> [Repository][Animated Fluent Emojis Repo URL]
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" /> [Repository][https://github.com/Carlos-Bolano/JadirhGonzalezPoems]
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4ca_barchart.webp" width="25" height="25" /> GitHub Stats
 
-![Andry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndryOre&show_icons=true&theme=github_dark)
-![Andry's GitHub Streak](https://streak-stats.demolab.com/?user=AndryOre&theme=github-dark-blue)
-![Andry's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndryOre&layout=compact&theme=github_dark)
+![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndryOre&show_icons=true&theme=github_dark)
+![Carlos' GitHub Streak](https://streak-stats.demolab.com/?user=Carlos-Bolano&theme=github-dark-blue)
+![Carlos' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bolano&layout=compact&theme=github_dark)
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Hand%20gestures/handshake.webp" width="25" height="25" /> Let's Connect
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+Open to job opportunities and collaborating on interesting projects. If you're looking for someone with my profile, I'd love to learn more about your team and how I can contribute!
 
 [![X][X Badge]][X URL]
 [![LinkedIn][LinkedIn Badge]][LinkedIn URL]
