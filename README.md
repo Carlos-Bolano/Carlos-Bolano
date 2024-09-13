@@ -3,7 +3,6 @@
 # Carlos Bolaño <img src="https://cdn.animated-fluent-emojis.com/webp/People/mantechie.webp" width="36" height="36" />
 
 [![X][X Badge]][X URL]
-[![Instagram][Instagram Badge]][Instagram URL]
 [![LinkedIn][LinkedIn Badge]][LinkedIn URL]
 [![GMail][GMail Badge]][GMail URL]
 
@@ -68,16 +67,10 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 
 [X Badge]: https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white
 [X URL]: https://x.com/AndryOre
-[Instagram Badge]: https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
-[Instagram URL]: https://instagram.com/AndryOre
 [LinkedIn Badge]: https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
-[LinkedIn URL]: https://linkedin.com/in/AndryOre
+[LinkedIn URL]: https://linkedin.com/in/carlos-bola%C3%B1o-716926191/
 [GMail Badge]: https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white
-[GMail URL]: mailto:andryfpo@gmail.com
-[Bookmark Import/Export Chrome Web Store URL]: https://chromewebstore.google.com/detail/bookmark-importexport/gdhpeilfkeeajillmcncaelnppiakjhn
-[Bookmark Import/Export Repo URL]: https://github.com/AndryOre/bookmarks-import-export
-[Animated Fluent Emojis NPM URL]: https://www.npmjs.com/package/animated-fluent-emojis
-[Animated Fluent Emojis Repo URL]: https://github.com/AndryOre/animated-fluent-emojis
+[GMail URL]: mailto:carlostutos828@gmail.com
 [HTML5 Badge]: https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
 [HTML5 URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [CSS3 Badge]: https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
@@ -102,8 +95,6 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 [Eslint URL]: https://eslint.org/
 [Prettier Badge]: https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black
 [Prettier URL]: https://prettier.io/
-[Commitlint Badge]: https://img.shields.io/badge/commitlint-000000.svg?style=for-the-badge&logo=commitlint&logoColor=white
-[Commitlint URL]: https://commitlint.js.org/
 [Vercel Badge]: https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white
 [Vercel URL]: https://vercel.com/
 [Railway Badge]: https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white
@@ -112,12 +103,8 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 [Figma URL]: https://www.figma.com/
 [Shadcn/UI Badge]: https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=shadcn/ui&logoColor=white
 [Shadcn/UI URL]: https://ui.shadcn.com/
-[Plasmo Badge]: https://img.shields.io/badge/Plasmo-0F0C29.svg?style=for-the-badge&logo=Plasmo&logoColor=white
-[Plasmo URL]: https://www.plasmo.com/
 [Lucide Badge]: https://img.shields.io/badge/Lucide-f67373.svg?style=for-the-badge&logo=lucide&logoColor=white
 [Lucide URL]: https://lucide.dev/
-[TRPC Badge]: https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white
-[TRPC URL]: https://trpc.io/
 [Prisma Badge]: https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white
 [Prisma URL]: https://www.prisma.io/
 [Zod Badge]: https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white
