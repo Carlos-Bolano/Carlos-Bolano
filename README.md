@@ -14,7 +14,7 @@ in web development
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Travel%20and%20places/launch.webp" width="25" height="25" /> About Me
 
-I'm a software developer passionate about building full-stack web applications. My approach is project-driven: I learn and apply technologies as needed to bring ideas to life. Each project is an opportunity to deepen existing skills or explore new tools, always with the goal of creating functional, user-friendly solutions.
+I'm a Colombian software developer 🇨🇴 who loves creating projects that have a real-world impact. With a focus on full-stack web development, I enjoy building scalable and functional solutions that address real challenges.
 I enjoy exploring new tech trends and contributing to open-source projects when I'm not coding. Always open to new opportunities and eager to make an impact in software development.
 
 Feel free to check out my [portfolio][Portfolio URL] to see some of the projects I've worked on!
