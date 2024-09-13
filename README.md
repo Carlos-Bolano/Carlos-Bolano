@@ -1,6 +1,7 @@
 <div align="center">
-  
-# Hi there! I'm Carlos Bolaño <img src="https://cdn.animated-fluent-emojis.com/webp/People/mantechie.webp" width="36" height="36" />  but you can call me Calisto
+Hi there! 
+# Carlos Bolaño <img src="https://cdn.animated-fluent-emojis.com/webp/People/mantechie.webp" width="36" height="36" />  
+but you can call me Calisto
   
 [![X][X Badge]][X URL]
 [![LinkedIn][LinkedIn Badge]][LinkedIn URL]
