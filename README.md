@@ -35,9 +35,9 @@ a dynamic blog tailor-made for a client who loves writing poems.
 [![Lucide][Lucide Badge]][Lucide URL]
 [![TypeScript][TypeScript Badge]][TypeScript URL]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" /> [!Preview][https://jadirhgonzalezpoems.vercel.app/]
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" /> [Preview][JadirhGonzales URL]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" /> [!Repository][https://github.com/Carlos-Bolano/JadirhGonzalezPoems]
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" /> [Repository][JadirhGonzales Repo URL]
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4ca_barchart.webp" width="25" height="25" /> GitHub Stats
 
@@ -59,6 +59,10 @@ Open to job opportunities and collaborating on interesting projects. If you're l
 [LinkedIn URL]: https://linkedin.com/in/carlos-bola%C3%B1o-716926191/
 [GMail Badge]: https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white
 [GMail URL]: mailto:carlostutos828@gmail.com
+
+[JadirhGonzales URL]: https://jadirhgonzalezpoems.vercel.app/
+[JadirhGonzales Repo URL]: https://github.com/Carlos-Bolano/JadirhGonzalezPoems
+
 [HTML5 Badge]: https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
 [HTML5 URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [CSS3 Badge]: https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white
