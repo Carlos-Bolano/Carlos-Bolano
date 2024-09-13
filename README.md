@@ -35,13 +35,13 @@ a dynamic blog tailor-made for a client who loves writing poems.
 [![Lucide][Lucide Badge]][Lucide URL]
 [![TypeScript][TypeScript Badge]][TypeScript URL]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" /> [Preview][https://jadirhgonzalezpoems.vercel.app/]
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" /> [!Preview][https://jadirhgonzalezpoems.vercel.app/]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" /> [Repository][https://github.com/Carlos-Bolano/JadirhGonzalezPoems]
+<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" /> [!Repository][https://github.com/Carlos-Bolano/JadirhGonzalezPoems]
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4ca_barchart.webp" width="25" height="25" /> GitHub Stats
 
-![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndryOre&show_icons=true&theme=github_dark)
+![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Bolano&show_icons=true&theme=github_dark)
 ![Carlos' GitHub Streak](https://streak-stats.demolab.com/?user=Carlos-Bolano&theme=github-dark-blue)
 ![Carlos' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bolano&layout=compact&theme=github_dark)
 
