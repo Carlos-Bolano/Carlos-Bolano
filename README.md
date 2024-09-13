@@ -1,9 +1,7 @@
 <div align="center">
-
-# Carlos Bolaño <img src="https://cdn.animated-fluent-emojis.com/webp/People/mantechie.webp" width="36" height="36" />
-Software engineering student with more than 2 years of experience
-in web development
-
+Hi there! 👋
+#  I'm Carlos Bolaño <img src="https://cdn.animated-fluent-emojis.com/webp/People/mantechie.webp" width="36" height="36" />
+ but you can call me Calisto
 [![X][X Badge]][X URL]
 [![LinkedIn][LinkedIn Badge]][LinkedIn URL]
 [![GMail][GMail Badge]][GMail URL]
