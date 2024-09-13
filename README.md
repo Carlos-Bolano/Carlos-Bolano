@@ -22,7 +22,7 @@ I'm a software developer passionate about building full-stack web applications. 
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Languages & Frontend | [![HTML5][HTML5 Badge]][HTML5 URL] [![CSS3][CSS3 Badge]][CSS3 URL] [![JavaScript][JavaScript Badge]][JavaScript URL] [![TypeScript][TypeScript Badge]][TypeScript URL] [![React][React Badge]][React URL] [![Next.js][Next.js Badge]][Next.js URL] [![Astro][Astro Badge]][Astro URL] |
 | UI & Styling         | [![TailwindCSS][TailwindCSS Badge]][TailwindCSS URL] [![Shadcn/UI][Shadcn/UI Badge]][Shadcn/UI URL] [![Lucide][Lucide Badge]][Lucide URL] [![Figma][Figma Badge]][Figma URL] |
-| Backend & Data       | [![Prisma][Prisma Badge]][Prisma URL] [![Zod][Zod Badge]][Zod URL] |
+| Backend & Data       | [![Prisma][Prisma Badge]][Prisma URL] [![Zod][Zod Badge]][Zod URL] [![MongoDB][MongoDB Badge]][MongoDB URL] [![Express.js][Express.js Badge]][Express.js URL] [![Node.js][Node.js Badge]][Node.js URL] [![MySQL][MySQL Badge]][MySQL URL] |
 | Development Tools    | [![Vite][Vite Badge]][Vite URL] [![PNPM][PNPM Badge]][PNPM URL] [![Eslint][Eslint Badge]][Eslint URL] [![Prettier][Prettier Badge]][Prettier URL] |
 | Deployment           | [![Vercel][Vercel Badge]][Vercel URL] [![Railway][Railway Badge]][Railway URL] |
 
@@ -86,8 +86,6 @@ Open to job opportunities and collaborating on interesting projects. If you're l
 [Astro URL]: https://astro.build/
 [TailwindCSS Badge]: https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white
 [TailwindCSS URL]: https://tailwindcss.com/
-[i18next Badge]: https://img.shields.io/badge/i18next-26A69A.svg?style=for-the-badge&logo=i18next&logoColor=white
-[i18next URL]: https://i18next.com/
 [Vite Badge]: https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white
 [Vite URL]: https://vitejs.dev/
 [Eslint Badge]: https://img.shields.io/badge/ESLint-4B32C3.svg?style=for-the-badge&logo=ESLint&logoColor=white
@@ -112,3 +110,15 @@ Open to job opportunities and collaborating on interesting projects. If you're l
 [Conventional Commits URL]: https://www.conventionalcommits.org/en/v1.0.0/
 [PNPM Badge]: https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white
 [PNPM URL]: https://pnpm.io/
+[MongoDB Badge]: https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white
+[MongoDB URL]: https://www.mongodb.com/
+[Bootstrap Badge]: https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white
+[Bootstrap URL]: https://getbootstrap.com/
+[Express.js Badge]: https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=Express&logoColor=white
+[Express.js URL]: https://expressjs.com/
+[Node.js Badge]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white
+[Node.js URL]: https://nodejs.org/
+[MySQL Badge]: https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white
+[MySQL URL]: https://www.mysql.com/
+[Git Badge]: https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white
+[Git URL]: https://git-scm.com/
