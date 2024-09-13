@@ -7,6 +7,8 @@ in web development
 [![X][X Badge]][X URL]
 [![LinkedIn][LinkedIn Badge]][LinkedIn URL]
 [![GMail][GMail Badge]][GMail URL]
+[![Portfolio][Portfolio Badge]][Portfolio URL]
+
 
 </div>
 
@@ -54,6 +56,7 @@ Open to job opportunities and collaborating on interesting projects. If you're l
 [![X][X Badge]][X URL]
 [![LinkedIn][LinkedIn Badge]][LinkedIn URL]
 [![GMail][GMail Badge]][GMail URL]
+[![Portfolio][Portfolio Badge]][Portfolio URL]
 
 [X Badge]: https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white
 [X URL]: https://x.com/AndryOre
@@ -61,6 +64,8 @@ Open to job opportunities and collaborating on interesting projects. If you're l
 [LinkedIn URL]: https://linkedin.com/in/carlos-bola%C3%B1o-716926191/
 [GMail Badge]: https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white
 [GMail URL]: mailto:carlostutos828@gmail.com
+[Portfolio badge]:https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=portfolio&logoColor=white
+[Portfolio URL]: https://carlos-bolano.vercel.app
 
 [JadirhGonzales URL]: https://jadirhgonzalezpoems.vercel.app/
 [JadirhGonzales Repo URL]: https://github.com/Carlos-Bolano/JadirhGonzalezPoems
