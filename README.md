@@ -24,7 +24,7 @@ I'm a software developer passionate about building full-stack web applications. 
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4bc_briefcase.webp" width="25" height="25" /> Featured Projects
 
-### Bookmark Import/Export <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f516_bookmark.webp" width="25" height="25" />
+### JadrihGonzalesPoems Blog 📝 />
 
 A web extension for importing and exporting bookmarks across browsers.
 
