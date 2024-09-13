@@ -58,9 +58,9 @@ Open to job opportunities and collaborating on interesting projects. If you're l
 [![Portfolio][Portfolio Badge]][Portfolio URL]
 
 [X Badge]: https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white
-[X URL]: https://x.com/AndryOre
+[X URL]: https://x.com/Calisto_dev
 [LinkedIn Badge]: https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
-[LinkedIn URL]: https://linkedin.com/in/carlos-bola%C3%B1o-716926191/
+[LinkedIn URL]: https://linkedin.com/in/carlos-bolano
 [GMail Badge]: https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white
 [GMail URL]: mailto:carlostutos828@gmail.com
 [Portfolio badge]:https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=portfolio&logoColor=white
