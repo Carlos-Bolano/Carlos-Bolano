@@ -44,9 +44,9 @@ a dynamic blog tailor-made for a client who loves writing poems.
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4ca_barchart.webp" width="25" height="25" /> GitHub Stats
 
-![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Bolano&show_icons=true&theme=github_dark)
-![Carlos' GitHub Streak](https://streak-stats.demolab.com/?user=Carlos-Bolano&theme=github-dark-blue)
-![Carlos' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bolano&layout=compact&theme=github_dark)
+![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Bolano&show_icons=true)
+![Carlos' GitHub Streak](https://streak-stats.demolab.com/?user=Carlos-Bolano)
+![Carlos' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Bolano&layout=compact)
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Hand%20gestures/handshake.webp" width="25" height="25" /> Let's Connect
 
