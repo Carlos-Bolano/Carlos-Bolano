@@ -10,7 +10,7 @@
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Travel%20and%20places/launch.webp" width="25" height="25" /> About Me
 
-I'm a Colombian software developer who loves creating projects that have a real-world impact. With a focus on full-stack web development, I enjoy building scalable and functional solutions that address real challenges.
+I'm Calisto, a Colombian software developer who loves creating projects that have a real-world impact. With a focus on full-stack web development, I enjoy building scalable and functional solutions that address real challenges.
 I enjoy exploring new tech trends and contributing to open-source projects when I'm not coding. Always open to new opportunities and eager to make an impact in software development.
 
 Feel free to check out my [portfolio][Portfolio URL] to see some of the projects I've worked on!
@@ -27,20 +27,26 @@ Feel free to check out my [portfolio][Portfolio URL] to see some of the projects
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4bc_briefcase.webp" width="25" height="25" /> Featured Projects
 
-### JadrihGonzalesPoems Blog 📝
+### Moodflix - Movie recommendations based on your mood 🍿
 
-a dynamic blog tailor-made for a client who loves writing poems.
+An AI-powered movie recommendation app. It recommends movies based on the user's emotional state or picking a mood from a list. Created from scratch using Gemini and Next.js.
 
 [![React][React Badge]][React URL]
 [![Next.js][Next.js Badge]][Next.js URL]
 [![TailwindCSS][TailwindCSS Badge]][TailwindCSS URL]
-[![Shadcn/UI][Shadcn/UI Badge]][Shadcn/UI URL]
-[![Lucide][Lucide Badge]][Lucide URL]
 [![TypeScript][TypeScript Badge]][TypeScript URL]
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" /> [Preview][JadirhGonzales URL]
+<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 5px;">
+  <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" />
+  <a href="[moodflix URL]">Preview</a>
+</div>
 
-<img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" /> [Repository][JadirhGonzales Repo URL]
+<div style="display: flex; align-items: center; gap: 5px;">
+  <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" />
+  <a href="[moodflix Repo URL]">Repository</a>
+</div>
+</div>
 
 ## <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4ca_barchart.webp" width="25" height="25" /> GitHub Stats
 
@@ -66,8 +72,8 @@ Open to job opportunities and collaborating on interesting projects. If you're l
 [Portfolio badge]:https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=portfolio&logoColor=white
 [Portfolio URL]: https://carlos-bolano.vercel.app
 
-[JadirhGonzales URL]: https://jadirhgonzalezpoems.vercel.app/
-[JadirhGonzales Repo URL]: https://github.com/Carlos-Bolano/JadirhGonzalezPoems
+[moodflix URL]: https://moodflix-by-calisto.vercel.app
+[moodflix Repo URL]: https://github.com/Carlos-Bolano/moodflix
 
 [HTML5 Badge]: https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white
 [HTML5 URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
