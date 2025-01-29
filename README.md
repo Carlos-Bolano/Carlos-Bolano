@@ -37,10 +37,10 @@ An AI-powered movie recommendation app. It recommends movies based on the user's
 [![TypeScript][TypeScript Badge]][TypeScript URL]
 
 <div style="display: flex; align-items: center; gap: 10px;">
-<div style="display: flex; align-items: center; gap: 5px;">
-  <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" />
-  <a href="[moodflix URL]">Preview</a>
-</div>
+  <div style="display: flex; align-items: center; gap: 5px;">
+    <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f4e6_package.webp" width="25" height="25" />
+    <a href="[moodflix URL]">Preview</a>
+  </div>
 
 <div style="display: flex; align-items: center; gap: 5px;">
   <img src="https://cdn.animated-fluent-emojis.com/webp/Objects/1f517_linksymbol.webp" width="25" height="25" />
